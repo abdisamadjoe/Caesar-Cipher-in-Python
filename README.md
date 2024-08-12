@@ -20,15 +20,17 @@ This project implements the Caesar Cipher, a simple encryption technique used to
 
 <p align="center">
 Code Overview: <br/>
-<img src="![1](https://github.com/user-attachments/assets/d535b2e8-761c-4735-8db0-c24281c407f2)" height="80%" width="80%" alt="Caesar Cipher Code Overview"/>
+![1](https://github.com/user-attachments/assets/63874ba4-c791-4d1a-a953-be74613e0875)
 <br />
 <br />
 Encryption: <br/>
-<img src="https://imgur.com/UwXVB88" height="80%" width="80%" alt="Caesar Cipher Encryption"/>
+![2](https://github.com/user-attachments/assets/89d1a761-9937-4dc1-8180-e0dcce97215e)
+
 <br />
 <br />
 Decryption: <br/>
-<img src="https://imgur.com/7JpAjEI" height="80%" width="80%" alt="Caesar Cipher Decryption"/>
+![3](https://github.com/user-attachments/assets/053e133e-60c1-4a81-84aa-3bee28d07f98)
+
 </p>
 
 
