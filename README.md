@@ -20,6 +20,7 @@ This project implements the Caesar Cipher, a simple encryption technique used to
 
 <p align="center">
 Code Overview: <br/>
+  <img src="https://github.com/user-attachments/assets/63874ba4-c791-4d1a-a953-be74613e0875" height="80%" width="80%" alt="Caesar Cipher Code Overview"/>
 ![1](https://github.com/user-attachments/assets/63874ba4-c791-4d1a-a953-be74613e0875)
 <br />
 <br />
