@@ -19,24 +19,16 @@ This project implements the Caesar Cipher, a simple encryption technique used to
 ## Project Walkthrough:
 
 <p align="center">
-Launch the script: <br/>
-<img src="https://i.imgur.com/yourimage.png" height="80%" width="80%" alt="Caesar Cipher Script Launch"/>
+Code Overview: <br/>
+<img src="https://i.imgur.com/yourimage.png" height="80%" width="80%" alt="Caesar Cipher Code Overview"/>
 <br />
 <br />
-Choose operation (Encrypt or Decrypt):  <br/>
-<img src="https://i.imgur.com/yourimage.png" height="80%" width="80%" alt="Caesar Cipher Operation Selection"/>
+Encryption: <br/>
+<img src="https://i.imgur.com/yourimage.png" height="80%" width="80%" alt="Caesar Cipher Encryption"/>
 <br />
 <br />
-Input message: <br/>
-<img src="https://i.imgur.com/yourimage.png" height="80%" width="80%" alt="Caesar Cipher Message Input"/>
-<br />
-<br />
-Specify shift value:  <br/>
-<img src="https://i.imgur.com/yourimage.png" height="80%" width="80%" alt="Caesar Cipher Shift Value"/>
-<br />
-<br />
-View results:  <br/>
-<img src="https://i.imgur.com/yourimage.png" height="80%" width="80%" alt="Caesar Cipher Results"/>
+Decryption: <br/>
+<img src="https://i.imgur.com/yourimage.png" height="80%" width="80%" alt="Caesar Cipher Decryption"/>
 </p>
 
 ## Sample Run
