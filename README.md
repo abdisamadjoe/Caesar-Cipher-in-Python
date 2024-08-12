@@ -12,25 +12,22 @@ This project implements the Caesar Cipher, a simple encryption technique used to
 
 ## Environments Used 
 
-- **Windows 10**
-- **macOS Monterey**
-- **Ubuntu 20.04**
+- **Windows 11**
+- **Visual Studio Code**
 
 ## Project Walkthrough:
 
 <p align="center">
 Code Overview: <br/>
-<img src="https://i.imgur.com/yourimage.png" height="80%" width="80%" alt="Caesar Cipher Code Overview"/>
+<img src="https://imgur.com/p726tBQ" height="80%" width="80%" alt="Caesar Cipher Code Overview"/>
 <br />
 <br />
 Encryption: <br/>
-<img src="https://i.imgur.com/yourimage.png" height="80%" width="80%" alt="Caesar Cipher Encryption"/>
+<img src="https://imgur.com/UwXVB88" height="80%" width="80%" alt="Caesar Cipher Encryption"/>
 <br />
 <br />
 Decryption: <br/>
-<img src="https://i.imgur.com/yourimage.png" height="80%" width="80%" alt="Caesar Cipher Decryption"/>
+<img src="https://imgur.com/7JpAjEI" height="80%" width="80%" alt="Caesar Cipher Decryption"/>
 </p>
 
-## Sample Run
 
-### Encrypting:
